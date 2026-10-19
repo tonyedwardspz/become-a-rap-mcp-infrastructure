@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/BecomeARapMcp.Api.Tests/BecomeARapMcp.Api.Tests.csproj" />
     <Project Path="src/BecomeARapMcp.Api/BecomeARapMcp.Api.csproj" />
     <Project Path="src/BecomeARapMcp.AppHost/BecomeARapMcp.AppHost.csproj" />
     <Project Path="src/BecomeARapMcp.McpServer/BecomeARapMcp.McpServer.csproj" />

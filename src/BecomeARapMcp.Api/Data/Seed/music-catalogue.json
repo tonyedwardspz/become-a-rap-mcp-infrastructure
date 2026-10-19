@@ -1,0 +1,157 @@
+{
+  "artists": [
+    { "name": "Eminem" },
+    { "name": "Dr. Dre" },
+    { "name": "Xzibit" },
+    { "name": "Sapient" }
+  ],
+  "genres": [
+    {
+      "name": "Hip Hop",
+      "description": "Hip hop music"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Eminem",
+      "title": "The Marshall Mathers LP",
+      "releaseDate": "2000-05-23",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/f3a793a7-b7a9-4705-80b3-b4ae729eab4c",
+      "explicitSourceUrl": "https://api.deezer.com/album/125748/tracks",
+      "tracks": [
+        { "trackNumber": 1, "title": "Public Service Announcement 2000", "durationSeconds": 25, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 2, "title": "Kill You", "durationSeconds": 264, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Stan", "durationSeconds": 404, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Dido"] },
+        { "trackNumber": 4, "title": "Paul (skit)", "durationSeconds": 11, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 5, "title": "Who Knew", "durationSeconds": 228, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 6, "title": "Steve Berman", "durationSeconds": 54, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 7, "title": "The Way I Am", "durationSeconds": 290, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 8, "title": "The Real Slim Shady", "durationSeconds": 285, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 9, "title": "Remember Me?", "durationSeconds": 218, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["RBX", "Sticky Fingaz"] },
+        { "trackNumber": 10, "title": "I’m Back", "durationSeconds": 310, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 11, "title": "Marshall Mathers", "durationSeconds": 321, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 12, "title": "Ken Kaniff (skit)", "durationSeconds": 62, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 13, "title": "Drug Ballad", "durationSeconds": 300, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 14, "title": "Amityville", "durationSeconds": 255, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Bizarre"] },
+        { "trackNumber": 15, "title": "Bitch Please II", "durationSeconds": 288, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Dr. Dre", "Snoop Dogg", "Xzibit", "Nate Dogg"] },
+        { "trackNumber": 16, "title": "Kim", "durationSeconds": 378, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 17, "title": "Under the Influence", "durationSeconds": 322, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["D12"] },
+        { "trackNumber": 18, "title": "Criminal", "durationSeconds": 319, "explicit": true, "genre": "Hip Hop" }
+      ]
+    },
+    {
+      "artist": "Eminem",
+      "title": "The Slim Shady LP",
+      "releaseDate": "1999-02-23",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/7b4d84ae-1c36-4a34-a7b4-c1d41899c0d1",
+      "explicitSourceUrl": "https://api.deezer.com/album/11047846/tracks",
+      "tracks": [
+        { "trackNumber": 1, "title": "Public Service Announcement", "durationSeconds": 33, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Jeff Bass"] },
+        { "trackNumber": 2, "title": "My Name Is", "durationSeconds": 268, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Guilty Conscience", "durationSeconds": 199, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Dr. Dre"] },
+        { "trackNumber": 4, "title": "Brain Damage", "durationSeconds": 227, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 5, "title": "Paul", "durationSeconds": 16, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Paul Rosenberg"] },
+        { "trackNumber": 6, "title": "If I Had", "durationSeconds": 245, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 7, "title": "97’ Bonnie & Clyde", "durationSeconds": 316, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 8, "title": "Bitch", "durationSeconds": 20, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Zoe Winkler"] },
+        { "trackNumber": 9, "title": "Role Model", "durationSeconds": 205, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 10, "title": "Lounge", "durationSeconds": 47, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["The Funky Bass Brothers"] },
+        { "trackNumber": 11, "title": "My Fault", "durationSeconds": 242, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 12, "title": "Ken Kaniff", "durationSeconds": 76, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Aristotle", "Mark Bass"] },
+        { "trackNumber": 13, "title": "Cum on Everybody", "durationSeconds": 219, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 14, "title": "Rock Bottom", "durationSeconds": 214, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 15, "title": "Just Don’t Give a Fuck", "durationSeconds": 243, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 16, "title": "Soap", "durationSeconds": 35, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Royce da 5’9″", "Jeff Bass"] },
+        { "trackNumber": 17, "title": "As the World Turns", "durationSeconds": 265, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 18, "title": "I’m Shady", "durationSeconds": 212, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 19, "title": "Bad Meets Evil", "durationSeconds": 253, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Royce da 5’9″"] },
+        { "trackNumber": 20, "title": "Still Don’t Give a Fuck", "durationSeconds": 255, "explicit": true, "genre": "Hip Hop" }
+      ]
+    },
+    {
+      "artist": "Dr. Dre",
+      "title": "2001",
+      "releaseDate": "1999-11-16",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/ae611654-f46b-4b7e-b750-1ef8de3bbfec",
+      "explicitSourceUrl": "https://api.deezer.com/album/13606387/tracks",
+      "tracks": [
+        { "trackNumber": 1, "title": "Lolo (intro)", "durationSeconds": 41, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Xzibit", "Big Tray Deee"] },
+        { "trackNumber": 2, "title": "The Watcher", "durationSeconds": 206, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Fuck You", "durationSeconds": 205, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Devin the Dude", "Snoop Dogg"] },
+        { "trackNumber": 4, "title": "Still D.R.E.", "durationSeconds": 271, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Snoop Dogg"] },
+        { "trackNumber": 5, "title": "Big Ego’s", "durationSeconds": 238, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Hittman"] },
+        { "trackNumber": 6, "title": "Xxplosive", "durationSeconds": 215, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Hittman", "Kurupt", "Nate Dogg", "Six-2"] },
+        { "trackNumber": 7, "title": "What’s the Difference", "durationSeconds": 244, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Eminem", "Xzibit"] },
+        { "trackNumber": 8, "title": "Bar One", "durationSeconds": 51, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Traci Nelson", "Ms. Roq", "Eddie Griffin"] },
+        { "trackNumber": 9, "title": "Light Speed", "durationSeconds": 161, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Hittman"] },
+        { "trackNumber": 10, "title": "Forgot About Dre", "durationSeconds": 222, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Eminem"] },
+        { "trackNumber": 11, "title": "The Next Episode", "durationSeconds": 162, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Snoop Dogg"] },
+        { "trackNumber": 12, "title": "Let’s Get High", "durationSeconds": 150, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Hittman", "Kurupt", "Ms. Roq"] },
+        { "trackNumber": 13, "title": "Bitch Niggaz", "durationSeconds": 254, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Snoop Dogg", "Hittman", "Six-2"] },
+        { "trackNumber": 14, "title": "The Car Bomb", "durationSeconds": 61, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Mel-Man", "Charis Henry"] },
+        { "trackNumber": 15, "title": "Murder Ink", "durationSeconds": 148, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Hittman", "Ms. Roq"] },
+        { "trackNumber": 16, "title": "Ed‐ucation", "durationSeconds": 92, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Eddie Griffin"] },
+        { "trackNumber": 17, "title": "Some L.A. Niggaz", "durationSeconds": 265, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Defari", "Xzibit", "Knoc‐Turn’Al", "Time Bomb", "King T", "MC Ren", "Kokane"] },
+        { "trackNumber": 18, "title": "Pause 4 Porno", "durationSeconds": 90, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Jake Steed"] },
+        { "trackNumber": 19, "title": "Housewife", "durationSeconds": 243, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Kurupt", "Hittman"] },
+        { "trackNumber": 20, "title": "Ackrite", "durationSeconds": 220, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Hittman"] },
+        { "trackNumber": 21, "title": "Bang Bang", "durationSeconds": 222, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Knoc‐Turn’Al", "Hittman"] },
+        { "trackNumber": 22, "title": "The Message", "durationSeconds": 329, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Mary J. Blige", "Rell"] }
+      ]
+    },
+    {
+      "artist": "Xzibit",
+      "title": "Restless",
+      "releaseDate": "2000-12-12",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/e85d8eca-6c8b-45fe-a5bd-29a89d4eea74",
+      "explicitSourceUrl": "https://api.deezer.com/album/70989/tracks",
+      "tracks": [
+        { "trackNumber": 1, "title": "Intro/Restless", "durationSeconds": 75, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 2, "title": "Front 2 Back", "durationSeconds": 182, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Been a Long Time", "durationSeconds": 238, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Nate Dogg"] },
+        { "trackNumber": 4, "title": "U Know", "durationSeconds": 206, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Dr. Dre"] },
+        { "trackNumber": 5, "title": "X", "durationSeconds": 256, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 6, "title": "Alkaholik", "durationSeconds": 219, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Erick Sermon", "J‐Ro", "Tash", "Tha Alkaholiks"] },
+        { "trackNumber": 7, "title": "Kenny Parker Show 2001", "durationSeconds": 286, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["KRS-One"] },
+        { "trackNumber": 8, "title": "D.N.A. (Drugs-N-Alkahol)", "durationSeconds": 278, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Snoop Dogg"] },
+        { "trackNumber": 9, "title": "Double Time", "durationSeconds": 171, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 10, "title": "Don’t Approach Me", "durationSeconds": 276, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Eminem"] },
+        { "trackNumber": 11, "title": "Rimz & Tirez", "durationSeconds": 292, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Defari", "Goldie Loc", "Kokane"] },
+        { "trackNumber": 12, "title": "Fuckin’ You Right", "durationSeconds": 223, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 13, "title": "Best of Things", "durationSeconds": 201, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 14, "title": "Get Your Walk On", "durationSeconds": 220, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 15, "title": "Sorry I’m Away So Much", "durationSeconds": 239, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Suga Free", "DJ Quik"] },
+        { "trackNumber": 16, "title": "Loud & Clear", "durationSeconds": 214, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Butch Cassidy", "Defari", "King T"] }
+      ]
+    },
+    {
+      "artist": "Sapient",
+      "title": "Letterhead",
+      "releaseDate": null,
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/1b7a54b1-c34b-4a3c-8960-9d6884a0b448",
+      "explicitSourceUrl": "https://api.deezer.com/album/6817868/tracks",
+      "alternateReleaseDateSourceUrl": "https://music.apple.com/us/album/letterhead/279093900",
+      "tracks": [
+        { "trackNumber": 1, "title": "Feels So Natural (To Be King)", "durationSeconds": 102, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 2, "title": "Letterhead", "durationSeconds": 137, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Stay Connected", "durationSeconds": 194, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 4, "title": "Quicksand", "durationSeconds": 277, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Sandpeople"] },
+        { "trackNumber": 5, "title": "The Screen", "durationSeconds": 180, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 6, "title": "Ellege (instrumental)", "durationSeconds": 77, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 7, "title": "Killinit", "durationSeconds": 165, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 8, "title": "You Ain’t With God Against Us", "durationSeconds": 142, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Onlyone"] },
+        { "trackNumber": 9, "title": "Just Like Me", "durationSeconds": 207, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 10, "title": "Rest of My Life", "durationSeconds": 213, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 11, "title": "Throne Together", "durationSeconds": 223, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Ethic"] },
+        { "trackNumber": 12, "title": "Daon (instrumental)", "durationSeconds": 83, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 13, "title": "Cup Runneth Over", "durationSeconds": 222, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 14, "title": "King Tunders", "durationSeconds": 138, "explicit": false, "genre": "Hip Hop" }
+      ]
+    }
+  ]
+}
