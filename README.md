@@ -1,6 +1,6 @@
 # Become a Rap MCP
 
-A .NET 10 / Aspire solution with a Minimal API, an empty MCP server, and a
+A .NET 10 / Aspire solution with a Blazor catalog browser, a Minimal API, an empty MCP server, and a
 persistent SQLite resource. The API exposes a read-only music catalogue backed
 by Entity Framework Core.
 
@@ -16,7 +16,7 @@ dotnet run --project src/BecomeARapMcp.AppHost --launch-profile http
 ```
 
 Open the dashboard login URL printed by AppHost, including its generated token.
-The dashboard shows `api`, `mcp`, and `sqlite`; both applications should become
+The dashboard shows `web`, `api`, `mcp`, and `sqlite`; all applications should become
 healthy. AppHost launches the apps with their Development HTTP profiles and
 provides endpoint allocation, telemetry configuration, and the API's SQLite
 connection string. There are no hardcoded inter-service URLs.
@@ -26,7 +26,48 @@ connection string. There are no hardcoded inter-service URLs.
 Swagger UI is available at `/swagger` on the API and documents every read
 endpoint. Use the addresses shown in the dashboard; with the default launch
 profiles these are `http://localhost:5005` (`api`), `http://localhost:5086`
-(`mcp`), and `http://localhost:15037` (dashboard).
+(`mcp`), `http://localhost:5203` (`web`), and `http://localhost:15037` (dashboard).
+
+## Catalog browser
+
+Open the **Music catalog** link on the `web` resource in the Aspire dashboard.
+The read-only Blazor Web App uses static server rendering, ordinary links, a
+submitted search form, and lightweight responsive CSS. It has no playback,
+editing, login, WebAssembly download, or interactive server circuit.
+
+- The homepage lists all albums grouped by album artist.
+- Album pages show release information, ordered tracks, durations, genres,
+  explicit flags, and linked primary/featured artist credits.
+- Artist pages show available biography information, albums, and all primary
+  and featured track appearances. Artists without their own albums are supported.
+- Track pages show metadata and links back to the album and credited artists.
+- Every page has a search box: press Enter or choose **Search**.
+
+Search results are grouped into **Albums**, **Album artists**, **Track artists**,
+and **Tracks**. Albums match title or album-artist name; artist groups match names;
+tracks match title, album title, or credited artist name. A person can appear in
+both artist groups. Results are case-insensitive, the query is retained in the
+URL, and all API pages are read so groups/results are not silently truncated.
+The web application filters album summaries because the API has no album-search
+parameter. This intentionally simple approach suits the current small catalog;
+a much larger catalog would benefit from API-side album search.
+
+Album covers and artist photos are loaded on detail pages using
+[TheAudioDB's free API](https://www.theaudiodb.com/free_music_api), with its
+documented shared free key `123`. No account, paid subscription, or private
+secret is needed. Images are displayed directly from external HTTPS URLs;
+neither images nor lookup responses are written to the project or database.
+Only lookup URLs/misses are cached temporarily in memory. The application
+limits itself to 30 lookups/minute, uses a two-second lookup timeout without
+retries, and shows a placeholder when a match is absent, the service is offline
+or rate-limited, or the image itself fails to load. Coverage is not guaranteed.
+Provider attribution is shown with returned artwork; images remain subject to
+their source/provider terms. Normal browser/CDN caching can still occur.
+
+The `web` application references `api` through Aspire service discovery, waits
+for API readiness, and exports its health status, logs, metrics, and traces to
+the dashboard. Catalog request failures display an explicit error and retry
+link rather than an empty catalog.
 
 | Method | Path | Purpose |
 | --- | --- | --- |
@@ -95,3 +136,12 @@ Run the API integration tests with:
 ```sh
 dotnet test src/BecomeARapMcp.Api.Tests
 ```
+
+Run the web client, search, artwork, and server-rendered page tests with:
+
+```sh
+dotnet test src/BecomeARapMcp.Web.Tests
+```
+
+Web tests use fake HTTP responses and do not require the external artwork
+provider or a running Aspire host.

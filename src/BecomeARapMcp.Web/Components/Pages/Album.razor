@@ -1,0 +1,43 @@
+@page "/albums/{Id:int}"
+@inherits CatalogPageBase
+@inject CatalogClient Catalog
+
+<PageTitle>@(_album?.Title ?? "Album") - Music catalog</PageTitle>
+
+@if (ErrorMessage is not null)
+{
+    <LoadError Message="@ErrorMessage" />
+}
+else if (_album is null)
+{
+    <MissingItem Kind="Album" />
+}
+else
+{
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Albums</a> / <a href="/artists/@_album.ArtistId">@_album.ArtistName</a></nav>
+    <div class="detail-header">
+        <Artwork Artist="@_album.ArtistName" Album="@_album.Title" />
+        <div>
+            <p class="eyebrow">@_album.AlbumType</p>
+            <h1>@_album.Title</h1>
+            <p class="intro">By <a href="/artists/@_album.ArtistId">@_album.ArtistName</a></p>
+            <p>@(_album.ReleaseDate?.ToString("d MMMM yyyy") ?? "Release date unknown")</p>
+            <p>@_album.Songs.Count tracks &middot; @TrackList.Duration(_album.Songs.Sum(track => track.DurationSeconds)) total</p>
+        </div>
+    </div>
+    <section>
+        <h2>Track listing</h2>
+        <TrackList Tracks="_album.Songs.OrderBy(track => track.TrackNumber).ToList()" Caption="Album track listing" />
+    </section>
+}
+
+@code {
+    [Parameter] public int Id { get; set; }
+    private AlbumDetail? _album;
+
+    protected override Task OnParametersSetAsync() => LoadAsync(async () =>
+    {
+        _album = await Catalog.GetAlbumAsync(Id, RequestCancellation);
+        if (_album is null) MarkNotFound();
+    });
+}

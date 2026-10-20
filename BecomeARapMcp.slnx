@@ -5,5 +5,7 @@
     <Project Path="src/BecomeARapMcp.AppHost/BecomeARapMcp.AppHost.csproj" />
     <Project Path="src/BecomeARapMcp.McpServer/BecomeARapMcp.McpServer.csproj" />
     <Project Path="src/BecomeARapMcp.ServiceDefaults/BecomeARapMcp.ServiceDefaults.csproj" />
+    <Project Path="src/BecomeARapMcp.Web.Tests/BecomeARapMcp.Web.Tests.csproj" />
+    <Project Path="src/BecomeARapMcp.Web/BecomeARapMcp.Web.csproj" />
   </Folder>
 </Solution>

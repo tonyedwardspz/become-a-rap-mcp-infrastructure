@@ -1,0 +1,45 @@
+@if (Tracks.Count == 0)
+{
+    <p>No tracks in this section.</p>
+}
+else
+{
+    <div class="table-scroll">
+        <table>
+            <caption class="visually-hidden">@Caption</caption>
+            <thead>
+                <tr><th scope="col">#</th><th scope="col">Track</th><th scope="col">Artists</th><th scope="col">Duration</th><th scope="col">Genre</th></tr>
+            </thead>
+            <tbody>
+                @foreach (var track in Tracks)
+                {
+                    <tr>
+                        <td>@track.TrackNumber</td>
+                        <td>
+                            <a href="/tracks/@track.SongId">@track.Title</a>
+                            @if (track.Explicit)
+                            {
+                                <span class="badge" title="Explicit content">Explicit</span>
+                            }
+                            @if (ShowAlbum)
+                            {
+                                <a class="metadata" href="/albums/@track.AlbumId">@track.AlbumTitle</a>
+                            }
+                        </td>
+                        <td><ArtistCredits Artists="track.Artists" /></td>
+                        <td class="duration">@Duration(track.DurationSeconds)</td>
+                        <td>@track.GenreName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@code {
+    [Parameter, EditorRequired] public IReadOnlyList<Track> Tracks { get; set; } = [];
+    [Parameter] public bool ShowAlbum { get; set; }
+    [Parameter] public string Caption { get; set; } = "Tracks";
+
+    public static string Duration(int seconds) => $"{seconds / 60}:{seconds % 60:00}";
+}

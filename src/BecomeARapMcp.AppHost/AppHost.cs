@@ -22,4 +22,10 @@ builder.AddProject<Projects.BecomeARapMcp_McpServer>("mcp", launchProfileName: "
     .WithHttpHealthCheck("/health")
     .WithUrl("/mcp", "MCP (Streamable HTTP)");
 
+builder.AddProject<Projects.BecomeARapMcp_Web>("web", launchProfileName: "http")
+    .WithReference(api)
+    .WaitFor(api)
+    .WithHttpHealthCheck("/health")
+    .WithUrl("/", "Music catalog");
+
 builder.Build().Run();

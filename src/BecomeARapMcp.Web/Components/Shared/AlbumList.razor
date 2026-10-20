@@ -1,0 +1,20 @@
+@if (Albums.Count == 0)
+{
+    <p>No albums in this section.</p>
+}
+else
+{
+    <ul class="album-list">
+        @foreach (var album in Albums.OrderBy(item => item.ReleaseDate).ThenBy(item => item.Title))
+        {
+            <li>
+                <a class="item-title" href="/albums/@album.AlbumId">@album.Title</a>
+                <span class="metadata">@album.ArtistName &middot; @(album.ReleaseDate?.ToString("yyyy") ?? "Release date unknown") &middot; @album.AlbumType</span>
+            </li>
+        }
+    </ul>
+}
+
+@code {
+    [Parameter, EditorRequired] public IReadOnlyList<AlbumSummary> Albums { get; set; } = [];
+}

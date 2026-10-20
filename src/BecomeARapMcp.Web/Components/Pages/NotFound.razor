@@ -1,0 +1,10 @@
+﻿@page "/not-found"
+@layout MainLayout
+@inherits CatalogPageBase
+
+<PageTitle>Page not found - Music catalog</PageTitle>
+<MissingItem Kind="Page" />
+
+@code {
+    protected override void OnInitialized() => MarkNotFound();
+}

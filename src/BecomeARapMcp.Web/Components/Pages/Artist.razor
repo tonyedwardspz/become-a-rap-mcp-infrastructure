@@ -1,0 +1,63 @@
+@page "/artists/{Id:int}"
+@inherits CatalogPageBase
+@inject CatalogClient Catalog
+
+<PageTitle>@(_artist?.Name ?? "Artist") - Music catalog</PageTitle>
+
+@if (ErrorMessage is not null)
+{
+    <LoadError Message="@ErrorMessage" />
+}
+else if (_artist is null)
+{
+    <MissingItem Kind="Artist" />
+}
+else
+{
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Albums</a> / Artist</nav>
+    <div class="detail-header">
+        <Artwork Artist="@_artist.Name" />
+        <div>
+            <p class="eyebrow">Artist</p>
+            <h1>@_artist.Name</h1>
+            @if (!string.IsNullOrWhiteSpace(_artist.Country))
+            {
+                <p>Country: @_artist.Country</p>
+            }
+            @if (_artist.FormedYear is not null)
+            {
+                <p>Active since @_artist.FormedYear</p>
+            }
+            @if (!string.IsNullOrWhiteSpace(_artist.Biography))
+            {
+                <p class="biography">@_artist.Biography</p>
+            }
+        </div>
+    </div>
+    <section class="catalog-section">
+        <h2>Albums <span class="count">@_artist.Albums.Count</span></h2>
+        <AlbumList Albums="_artist.Albums" />
+    </section>
+    <section>
+        <h2>Track appearances <span class="count">@_appearances.Count</span></h2>
+        <p>Primary and featured credits across the catalog.</p>
+        <TrackList Tracks="_appearances" ShowAlbum="true" Caption="Artist track appearances" />
+    </section>
+}
+
+@code {
+    [Parameter] public int Id { get; set; }
+    private ArtistDetail? _artist;
+    private IReadOnlyList<Track> _appearances = [];
+
+    protected override Task OnParametersSetAsync() => LoadAsync(async () =>
+    {
+        _artist = await Catalog.GetArtistAsync(Id, RequestCancellation);
+        if (_artist is null)
+        {
+            MarkNotFound();
+            return;
+        }
+        _appearances = await Catalog.GetAppearancesAsync(Id, RequestCancellation);
+    });
+}

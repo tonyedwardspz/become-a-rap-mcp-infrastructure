@@ -1,0 +1,75 @@
+@page "/search"
+@inherits CatalogPageBase
+@inject CatalogSearch SearchService
+
+<PageTitle>Search - Music catalog</PageTitle>
+
+@if (ErrorMessage is not null)
+{
+    <LoadError Message="@ErrorMessage" />
+}
+else
+{
+    <h1>Search the catalog</h1>
+    @if (string.IsNullOrWhiteSpace(Query))
+    {
+        <p>Enter an album, artist, or track name in the search box above.</p>
+    }
+    else if (_results is not null)
+    {
+        <p class="intro">Results for <strong>@Query.Trim()</strong></p>
+        <p class="metadata">Artists can appear in both artist groups when they own albums and have track credits.</p>
+        @if (_results.Count == 0)
+        {
+            <p>No results found. Try another name or title.</p>
+        }
+        <section class="catalog-section">
+            <h2>Albums <span class="count">@_results.Albums.Count</span></h2>
+            <AlbumList Albums="_results.Albums" />
+        </section>
+        <section class="catalog-section">
+            <h2>Album artists <span class="count">@_results.AlbumArtists.Count</span></h2>
+            @if (_results.AlbumArtists.Count == 0)
+            {
+                <p>No matching album artists.</p>
+            }
+            <ul class="result-list">
+                @foreach (var artist in _results.AlbumArtists)
+                {
+                    <li><a href="/artists/@artist.ArtistId">@artist.Name</a></li>
+                }
+            </ul>
+        </section>
+        <section class="catalog-section">
+            <h2>Track artists <span class="count">@_results.TrackArtists.Count</span></h2>
+            @if (_results.TrackArtists.Count == 0)
+            {
+                <p>No matching track artists.</p>
+            }
+            <ul class="result-list">
+                @foreach (var artist in _results.TrackArtists)
+                {
+                    <li><a href="/artists/@artist.ArtistId">@artist.Name</a><span class="metadata">Credited on tracks</span></li>
+                }
+            </ul>
+        </section>
+        <section>
+            <h2>Tracks <span class="count">@_results.Tracks.Count</span></h2>
+            <TrackList Tracks="_results.Tracks" ShowAlbum="true" Caption="Matching tracks" />
+        </section>
+    }
+}
+
+@code {
+    [SupplyParameterFromQuery(Name = "q")] public string? Query { get; set; }
+    private SearchResults? _results;
+
+    protected override Task OnParametersSetAsync() => LoadAsync(async () =>
+    {
+        _results = null;
+        if (!string.IsNullOrWhiteSpace(Query))
+        {
+            _results = await SearchService.SearchAsync(Query, RequestCancellation);
+        }
+    });
+}

@@ -1,0 +1,11 @@
+@foreach (var artist in Artists.OrderBy(item => item.Role == "Primary" ? 0 : 1).ThenBy(item => item.Name))
+{
+    <span class="artist-credit">
+        <a href="/artists/@artist.ArtistId">@artist.Name</a>
+        <span class="metadata">(@artist.Role.ToLowerInvariant())</span>
+    </span>
+}
+
+@code {
+    [Parameter, EditorRequired] public IReadOnlyList<ArtistCredit> Artists { get; set; } = [];
+}

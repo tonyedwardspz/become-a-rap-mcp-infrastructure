@@ -1,0 +1,12 @@
+@inject NavigationManager Navigation
+
+<div class="notice" role="alert">
+    <h1>Catalog unavailable</h1>
+    <p>@Message</p>
+    <a href="@Navigation.Uri" data-enhance-nav="false">Retry this page</a>
+    <span> or </span><a href="/">return to the catalog</a>.
+</div>
+
+@code {
+    [Parameter, EditorRequired] public string Message { get; set; } = "";
+}

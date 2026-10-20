@@ -1,0 +1,39 @@
+@page "/tracks/{Id:int}"
+@inherits CatalogPageBase
+@inject CatalogClient Catalog
+
+<PageTitle>@(_track?.Title ?? "Track") - Music catalog</PageTitle>
+
+@if (ErrorMessage is not null)
+{
+    <LoadError Message="@ErrorMessage" />
+}
+else if (_track is null)
+{
+    <MissingItem Kind="Track" />
+}
+else
+{
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Albums</a> / <a href="/albums/@_track.AlbumId">@_track.AlbumTitle</a></nav>
+    <p class="eyebrow">Track @_track.TrackNumber</p>
+    <h1>@_track.Title</h1>
+    <p class="intro">From <a href="/albums/@_track.AlbumId">@_track.AlbumTitle</a></p>
+    <dl>
+        <dt>Duration</dt><dd>@TrackList.Duration(_track.DurationSeconds)</dd>
+        <dt>Genre</dt><dd>@_track.GenreName</dd>
+        <dt>Content</dt><dd>@(_track.Explicit ? "Explicit" : "Not marked explicit")</dd>
+        <dt>Album release</dt><dd>@(_track.AlbumReleaseDate?.ToString("d MMMM yyyy") ?? "Unknown")</dd>
+        <dt>Artists</dt><dd><ArtistCredits Artists="_track.Artists" /></dd>
+    </dl>
+}
+
+@code {
+    [Parameter] public int Id { get; set; }
+    private Track? _track;
+
+    protected override Task OnParametersSetAsync() => LoadAsync(async () =>
+    {
+        _track = await Catalog.GetTrackAsync(Id, RequestCancellation);
+        if (_track is null) MarkNotFound();
+    });
+}

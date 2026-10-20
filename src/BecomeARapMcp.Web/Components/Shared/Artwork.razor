@@ -1,0 +1,33 @@
+@inject ArtworkService Images
+
+<figure class="artwork">
+    <div class="artwork-frame">
+        <div class="artwork-placeholder" role="img" aria-label="@Placeholder">
+            <span>@(Album is null ? "Artist" : "Album")</span>
+            <span>@Placeholder</span>
+        </div>
+        @if (_url is not null)
+        {
+            <img class="external-artwork" src="@_url" alt="@Description" referrerpolicy="no-referrer" />
+        }
+    </div>
+    <figcaption>
+        @if (_url is not null)
+        {
+            <span class="artwork-source">Artwork via <a href="https://www.theaudiodb.com/" target="_blank" rel="noopener noreferrer">TheAudioDB</a>. </span>
+        }
+        <span>Images are optional and may be unavailable.</span>
+    </figcaption>
+</figure>
+
+@code {
+    [Parameter, EditorRequired] public string Artist { get; set; } = "";
+    [Parameter] public string? Album { get; set; }
+    [CascadingParameter] public HttpContext? HttpContext { get; set; }
+    private string? _url;
+    private string Placeholder => Album is null ? "Artist photo unavailable" : "Album cover unavailable";
+    private string Description => Album is null ? $"Photo of {Artist}" : $"Cover of {Album} by {Artist}";
+
+    protected override async Task OnParametersSetAsync() =>
+        _url = await Images.FindAsync(Artist, Album, HttpContext?.RequestAborted ?? CancellationToken.None);
+}

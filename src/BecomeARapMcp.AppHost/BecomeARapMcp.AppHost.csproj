@@ -14,6 +14,7 @@
     <PackageReference Include="MessagePack" Version="2.5.307" />
     <ProjectReference Include="..\BecomeARapMcp.Api\BecomeARapMcp.Api.csproj" />
     <ProjectReference Include="..\BecomeARapMcp.McpServer\BecomeARapMcp.McpServer.csproj" />
+    <ProjectReference Include="..\BecomeARapMcp.Web\BecomeARapMcp.Web.csproj" />
   </ItemGroup>
 
 </Project>
