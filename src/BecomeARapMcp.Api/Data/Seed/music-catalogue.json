@@ -3,7 +3,26 @@
     { "name": "Eminem" },
     { "name": "Dr. Dre" },
     { "name": "Xzibit" },
-    { "name": "Sapient" }
+    { "name": "Sapient" },
+    { "name": "Sandpeople", "country": "United States" },
+    { "name": "Eyedea & Abilities", "country": "United States", "formedYear": 1999 },
+    { "name": "Pez", "country": "Australia" },
+    { "name": "Drapht", "country": "Australia" },
+    { "name": "Debaser", "country": "United States", "formedYear": 2005 },
+    { "name": "Mo-B", "country": "United States" },
+    { "name": "Illmaculate", "country": "United States" },
+    { "name": "OnlyOne", "country": "United States" },
+    { "name": "Goldini Bagwell", "country": "United States" },
+    { "name": "iAME", "country": "United States" },
+    { "name": "Al-One", "country": "United States" },
+    { "name": "Simple", "country": "United States" },
+    { "name": "DJ Spark", "country": "United States" },
+    { "name": "Ethic", "country": "United States" },
+    { "name": "Illmaculate & Goldini Bagwell", "country": "United States" },
+    { "name": "Illmaculate & OnlyOne", "country": "United States" },
+    { "name": "Mo-B & Simple", "country": "United States" },
+    { "name": "Al-One & OnlyOne", "country": "United States" },
+    { "name": "360", "country": "Australia" }
   ],
   "genres": [
     {
@@ -151,6 +170,4571 @@
         { "trackNumber": 12, "title": "Daon (instrumental)", "durationSeconds": 83, "explicit": false, "genre": "Hip Hop" },
         { "trackNumber": 13, "title": "Cup Runneth Over", "durationSeconds": 222, "explicit": false, "genre": "Hip Hop" },
         { "trackNumber": 14, "title": "King Tunders", "durationSeconds": 138, "explicit": false, "genre": "Hip Hop" }
+      ]
+    },
+    {
+      "artist": "Drapht",
+      "title": "Pale Rider",
+      "releaseDate": null,
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/99527a31-3932-4306-a447-d489436fbb0e",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Intro",
+          "durationSeconds": 105,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Hang ’em High",
+          "durationSeconds": 219,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Can’t Escape",
+          "durationSeconds": 222,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Abuse the World",
+          "durationSeconds": 230,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Optical Illusion",
+          "durationSeconds": 84,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Prolific",
+          "durationSeconds": 248,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Observe",
+          "durationSeconds": 175,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Uncontainable",
+          "durationSeconds": 286,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Weather Man",
+          "durationSeconds": 270,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Front Line",
+          "durationSeconds": 240,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "End That Way",
+          "durationSeconds": 259,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Drapht",
+      "title": "Who Am I",
+      "releaseDate": null,
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/25b6299e-1ab1-440b-b204-5306b399d5c6",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Intro",
+          "durationSeconds": 77,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Who Am I",
+          "durationSeconds": 267,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Drink Drank Drunk",
+          "durationSeconds": 275,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Inspiration Island",
+          "durationSeconds": 361,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "What Have I Got",
+          "durationSeconds": 223,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Verbally Flawless",
+          "durationSeconds": 222,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "The Music",
+          "durationSeconds": 216,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Got a Hold of Me",
+          "durationSeconds": 252,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Yah Think",
+          "durationSeconds": 251,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Deep Sleepers",
+          "durationSeconds": 251,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Who Can We Trust",
+          "durationSeconds": 309,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "The Sylla Squad",
+          "durationSeconds": 358,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Hold Up",
+          "durationSeconds": 210,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Don't Take No",
+          "durationSeconds": 257,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Wet T-Shirts",
+          "durationSeconds": 227,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Drapht",
+      "title": "Brothers Grimm",
+      "releaseDate": "2008-05-10",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/063290a9-5233-46fa-b45b-f90f548c5c42",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Intro",
+          "durationSeconds": 85,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "The Money",
+          "durationSeconds": 266,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Insomnia",
+          "durationSeconds": 193,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Jimmy Recard",
+          "durationSeconds": 214,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Dreams & Dreamers",
+          "durationSeconds": 316,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "A Good Year",
+          "durationSeconds": 226,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Boom Boom Boom",
+          "durationSeconds": 227,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Sound Man",
+          "durationSeconds": 274,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Don't Wanna Work",
+          "durationSeconds": 210,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Rest in Peace",
+          "durationSeconds": 255,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Where Yah From",
+          "durationSeconds": 231,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Put on a Record",
+          "durationSeconds": 283,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Lost",
+          "durationSeconds": 258,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Lose Control",
+          "durationSeconds": 240,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Drapht",
+      "title": "Seven Mirrors",
+      "releaseDate": "2016-08-19",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/26d63e2e-5dbf-4838-887a-3b6ebd68311f",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Seven Mirrors (Intro)",
+          "durationSeconds": 52,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "All Love",
+          "durationSeconds": 203,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Monsoon",
+          "durationSeconds": 250,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Raindrops",
+          "durationSeconds": 217,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Scumday",
+          "durationSeconds": 99,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Monday Monday",
+          "durationSeconds": 269,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Bad",
+          "durationSeconds": 263,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Don Quixote",
+          "durationSeconds": 232,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Again (Interlude)",
+          "durationSeconds": 48,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Oikaphobia",
+          "durationSeconds": 270,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Another Juliet",
+          "durationSeconds": 223,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Mexico",
+          "durationSeconds": 211,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Gun",
+          "durationSeconds": 229,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Asylum",
+          "durationSeconds": 290,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Midnight at the Hospice",
+          "durationSeconds": 103,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Odds",
+          "durationSeconds": 276,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Drapht",
+      "title": "Shadows and Shinings",
+      "releaseDate": "2021-09-10",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/af9430a2-6ab7-46d8-bf6d-e22851699611",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Intro",
+          "durationSeconds": 53,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Shadows On My Walls",
+          "durationSeconds": 256,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Oliver Twist",
+          "durationSeconds": 200,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Model Plane",
+          "durationSeconds": 242,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Postcards",
+          "durationSeconds": 256,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Speakeasy",
+          "durationSeconds": 197,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Holy Water",
+          "durationSeconds": 182,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Hypocrite",
+          "durationSeconds": 193,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Minor Interruption (Interlude)",
+          "durationSeconds": 71,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Better Alone",
+          "durationSeconds": 227,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Problem Here",
+          "durationSeconds": 177,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Oh Shit!!",
+          "durationSeconds": 305,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Hollywood Hills",
+          "durationSeconds": 200,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Keys to The City",
+          "durationSeconds": 154,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Release Me",
+          "durationSeconds": 253,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Pez",
+      "title": "Don't Look Down",
+      "releaseDate": "2016-11-04",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/d420ffdc-a152-4324-be8a-084f0ef64625",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Can't Wait",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Calling Out",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "They Try To Tell Me",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "I Wish I Could Stay",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Livin' On",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Whatever It Takes",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Don't Look Down",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Weekend",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Real Life",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "The Con",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Motherland",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "No One",
+          "durationSeconds": 0,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Eyedea & Abilities",
+      "title": "First Born",
+      "releaseDate": null,
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/9543e2b1-cfdc-4407-a9f1-3f9ade705a26",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "One",
+          "durationSeconds": 155,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Music Music",
+          "durationSeconds": 280,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Birth of a Fish...",
+          "durationSeconds": 129,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "...Powdered Water Too (a)",
+          "durationSeconds": 183,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "...Powdered Water Too (b)",
+          "durationSeconds": 203,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Color My World Mine",
+          "durationSeconds": 357,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Liquid Sovereignty",
+          "durationSeconds": 331,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "A Murder of Memories",
+          "durationSeconds": 297,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Blindly Firing",
+          "durationSeconds": 226,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Big Shots",
+          "durationSeconds": 230,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Void (Internal Theory)",
+          "durationSeconds": 134,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "The Dive (a)",
+          "durationSeconds": 253,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "The Dive (b)",
+          "durationSeconds": 313,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Well Being",
+          "durationSeconds": 189,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Read Wiped in Blue",
+          "durationSeconds": 308,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Void (Eternal Theory)",
+          "durationSeconds": 74,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 17,
+          "title": "On This I Stand",
+          "durationSeconds": 328,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 18,
+          "title": "Before and After",
+          "durationSeconds": 218,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Eyedea & Abilities",
+      "title": "E&A",
+      "releaseDate": "2004-05-23",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/fb538954-4426-4aae-9ebb-3ba9dc8da003",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Reintroducing",
+          "durationSeconds": 136,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Now",
+          "durationSeconds": 262,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Kept",
+          "durationSeconds": 148,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Exhausted Love",
+          "durationSeconds": 320,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Star Destroyer",
+          "durationSeconds": 224,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Paradise",
+          "durationSeconds": 392,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "One Twenty",
+          "durationSeconds": 192,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Man vs. Ape",
+          "durationSeconds": 167,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Get Along",
+          "durationSeconds": 57,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Two Men and a Lady",
+          "durationSeconds": 188,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "E&A Day",
+          "durationSeconds": 185,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Act Right",
+          "durationSeconds": 244,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Glass",
+          "durationSeconds": 271,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Debaser",
+      "title": "Crown Control",
+      "releaseDate": null,
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/1f09db11-b4d6-44fb-982d-76fb01b7570c",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Dbsr",
+          "durationSeconds": 65,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Crown Control",
+          "durationSeconds": 205,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Look What...",
+          "durationSeconds": 168,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Longlive",
+          "durationSeconds": 216,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "No Luck",
+          "durationSeconds": 288,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Rapper Advancement",
+          "durationSeconds": 265,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "How It's Made",
+          "durationSeconds": 198,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "On Purpose",
+          "durationSeconds": 204,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Less Human",
+          "durationSeconds": 222,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Dead Lines",
+          "durationSeconds": 223,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Nothing but Silence",
+          "durationSeconds": 240,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Left Behind",
+          "durationSeconds": 205,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Skit",
+          "durationSeconds": 42,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Stem",
+          "durationSeconds": 357,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "We Still Work You",
+          "durationSeconds": 212,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Silver Love",
+          "durationSeconds": 212,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 17,
+          "title": "Sugar and Spice (A Song About Girls)",
+          "durationSeconds": 221,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 18,
+          "title": "Trains of Thought",
+          "durationSeconds": 230,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 19,
+          "title": "Plaice",
+          "durationSeconds": 214,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 20,
+          "title": "Thomas",
+          "durationSeconds": 288,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Eyedea & Abilities",
+      "title": "Grand's Sixth Sense",
+      "releaseDate": "2011-05-23",
+      "albumType": "Album",
+      "sourceUrl": "https://micheallarsen.bandcamp.com/album/grands-sixth-sense",
+      "tracks": [
+        { "trackNumber": 1, "title": "Grand's Sixth Sense", "durationSeconds": 86, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 2, "title": "Curriculum", "durationSeconds": 189, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Hard Headed", "durationSeconds": 85, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 4, "title": "Laws of Gravity", "durationSeconds": 242, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Odd Jobs"] },
+        { "trackNumber": 5, "title": "The Search Goes On", "durationSeconds": 212, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 6, "title": "Disconnected", "durationSeconds": 312, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 7, "title": "1-800-Civilization", "durationSeconds": 85, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 8, "title": "All In Your Head", "durationSeconds": 281, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 9, "title": "Styrofoam", "durationSeconds": 254, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 10, "title": "Powdered Water", "durationSeconds": 242, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 11, "title": "I'm Gonna Be Me", "durationSeconds": 189, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 12, "title": "Be Alright", "durationSeconds": 241, "explicit": false, "genre": "Hip Hop" }
+      ]
+    },
+    {
+      "artist": "Debaser",
+      "title": "Back to Work",
+      "releaseDate": "2009-10-01",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/6542982",
+      "explicitSourceUrl": "https://api.deezer.com/album/6542982/tracks",
+      "tracks": [
+        { "trackNumber": 1, "title": "Go to Work (Intro)", "durationSeconds": 37, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 2, "title": "The Crown Fits", "durationSeconds": 113, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Bow", "durationSeconds": 220, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 4, "title": "Leave Me Alone", "durationSeconds": 207, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 5, "title": "Rap Scene", "durationSeconds": 145, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Luckyiam"] },
+        { "trackNumber": 6, "title": "The Difference", "durationSeconds": 183, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 7, "title": "I Don't Think So (remix)", "durationSeconds": 191, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 8, "title": "Chuchface (Instrumental)", "durationSeconds": 102, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 9, "title": "Do Propper", "durationSeconds": 178, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 10, "title": "Out Front", "durationSeconds": 189, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Rasco", "Phat Kat"] },
+        { "trackNumber": 11, "title": "End Life", "durationSeconds": 182, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Illmaculate"] },
+        { "trackNumber": 12, "title": "Someday", "durationSeconds": 220, "explicit": true, "genre": "Hip Hop" }
+      ]
+    },
+    {
+      "artist": "Sandpeople",
+      "title": "B-sides, Vol. 2",
+      "releaseDate": "2009-01-01",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/796605",
+      "explicitSourceUrl": "https://api.deezer.com/album/796605/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Confrontation",
+          "durationSeconds": 202,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Sand Gives",
+          "durationSeconds": 197,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Me Too",
+          "durationSeconds": 188,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "The CW Slap",
+          "durationSeconds": 291,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "The Sky Is Falling",
+          "durationSeconds": 291,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "No End",
+          "durationSeconds": 204,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Classic Cool",
+          "durationSeconds": 185,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Satisfaction Guaranteed",
+          "durationSeconds": 232,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Celebrate",
+          "durationSeconds": 260,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Just a Little Different",
+          "durationSeconds": 245,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Letterhead Remix",
+          "durationSeconds": 212,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Macklemore"
+          ]
+        },
+        {
+          "trackNumber": 12,
+          "title": "The Set-Up",
+          "durationSeconds": 155,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Nambulance",
+          "durationSeconds": 212,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "He's So Nice",
+          "durationSeconds": 232,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Thornacular",
+          "durationSeconds": 186,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Peegee 13"
+          ]
+        },
+        {
+          "trackNumber": 16,
+          "title": "Comfortable in My Skin",
+          "durationSeconds": 199,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 17,
+          "title": "Go Get It",
+          "durationSeconds": 198,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 18,
+          "title": "Yadida Doomsday",
+          "durationSeconds": 202,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 19,
+          "title": "Troupe",
+          "durationSeconds": 208,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 20,
+          "title": "Gladys",
+          "durationSeconds": 204,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Sandpeople",
+      "title": "Points of View",
+      "releaseDate": null,
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/08c3876f-bbe6-4b06-9beb-63fd1064aea6",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "In the Beginning",
+          "durationSeconds": 267,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Sight & Sound",
+          "durationSeconds": 196,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Put a Sock In It",
+          "durationSeconds": 194,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Papier Oshin",
+          "durationSeconds": 217,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Land of the Free",
+          "durationSeconds": 177,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Masquerade",
+          "durationSeconds": 229,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Desert",
+          "durationSeconds": 215,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Saltine Cantina",
+          "durationSeconds": 218,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Torrential Thought",
+          "durationSeconds": 224,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Earth 2 O",
+          "durationSeconds": 268,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "You Ain't Right?",
+          "durationSeconds": 153,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Dear Diary",
+          "durationSeconds": 174,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Semaphore",
+          "durationSeconds": 160,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Free Dirt",
+          "durationSeconds": 187,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Confession",
+          "durationSeconds": 202,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "The Abyss",
+          "durationSeconds": 242,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 17,
+          "title": "Anguish",
+          "durationSeconds": 307,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 18,
+          "title": "Utility Belt",
+          "durationSeconds": 221,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 19,
+          "title": "Resolution",
+          "durationSeconds": 258,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Sandpeople",
+      "title": "All In Vain",
+      "releaseDate": null,
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/2c4c9188-36eb-46f2-b3be-563e6b7c893f",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "All In Vain",
+          "durationSeconds": 256,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Keep It Movin",
+          "durationSeconds": 197,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Only One Experience",
+          "durationSeconds": 227,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Fiddler On the Roof",
+          "durationSeconds": 238,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Same Way",
+          "durationSeconds": 231,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Whetstone",
+          "durationSeconds": 192,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Perfect Picture",
+          "durationSeconds": 230,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Fall Apart",
+          "durationSeconds": 220,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Absence",
+          "durationSeconds": 193,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Best Enemies",
+          "durationSeconds": 245,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "One Day",
+          "durationSeconds": 194,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Can't Let Go",
+          "durationSeconds": 286,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Subtle Approach",
+          "durationSeconds": 233,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Lost Swarm",
+          "durationSeconds": 218,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Puppetry",
+          "durationSeconds": 175,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "The City Sleeps",
+          "durationSeconds": 234,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 17,
+          "title": "Fall Free",
+          "durationSeconds": 215,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 18,
+          "title": "Final Hour",
+          "durationSeconds": 229,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 19,
+          "title": "Last Time",
+          "durationSeconds": 336,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Sandpeople",
+      "title": "Honest Racket",
+      "releaseDate": null,
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/357f68cf-d520-43d3-8063-65392e7b6cdf",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "The Count",
+          "durationSeconds": 249,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Industrial Grade",
+          "durationSeconds": 198,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Real Estate",
+          "durationSeconds": 225,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Sandman",
+          "durationSeconds": 238,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Lose It",
+          "durationSeconds": 157,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Group Home",
+          "durationSeconds": 245,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "I Don't Care",
+          "durationSeconds": 235,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Not Alright",
+          "durationSeconds": 266,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "All in Your Head",
+          "durationSeconds": 222,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Air We Breathe",
+          "durationSeconds": 225,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Any Given Sunday",
+          "durationSeconds": 321,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Forget",
+          "durationSeconds": 232,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Just a Name",
+          "durationSeconds": 206,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "It's True",
+          "durationSeconds": 309,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Leave It Alone",
+          "durationSeconds": 240,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Synthetique Princess",
+          "durationSeconds": 244,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Sandpeople",
+      "title": "Long Story, Short - EP",
+      "releaseDate": "2009-05-26",
+      "albumType": "EP",
+      "sourceUrl": "https://music.apple.com/us/album/long-story-short-ep/314836285",
+      "explicitSourceUrl": "https://music.amazon.com/tracks/B0GWRZZKSB",
+      "tracks": [
+        { "trackNumber": 1, "title": "Strands", "durationSeconds": 198, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 2, "title": "Hate Aside", "durationSeconds": 223, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Oh My God", "durationSeconds": 235, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 4, "title": "Beyond Us", "durationSeconds": 256, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 5, "title": "Control Panel", "durationSeconds": 254, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 6, "title": "Money Is On Their Minds", "durationSeconds": 201, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 7, "title": "Goodbye World", "durationSeconds": 217, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 8, "title": "Left", "durationSeconds": 238, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 9, "title": "The Dapper Mob", "durationSeconds": 330, "explicit": true, "genre": "Hip Hop" }
+      ]
+    },
+    {
+      "artist": "Eyedea & Abilities",
+      "title": "By the Throat",
+      "releaseDate": "2009-07-21",
+      "albumType": "Album",
+      "sourceUrl": "https://music.apple.com/us/album/by-the-throat/1516729039",
+      "explicitSourceUrl": "https://open.spotify.com/track/3m561mNSijkkyXnv0yfFdq",
+      "tracks": [
+        { "trackNumber": 1, "title": "Hay Fever", "durationSeconds": 140, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 2, "title": "Spin Cycle", "durationSeconds": 219, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Time Flies When You Have a Gun", "durationSeconds": 104, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 4, "title": "Burn Fetish", "durationSeconds": 175, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 5, "title": "Sky Diver", "durationSeconds": 256, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 6, "title": "Junk", "durationSeconds": 166, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 7, "title": "Forgive Me for My Synapses", "durationSeconds": 62, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 8, "title": "This Story", "durationSeconds": 153, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 9, "title": "Factory", "durationSeconds": 115, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 10, "title": "Smile", "durationSeconds": 242, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 11, "title": "By the Throat", "durationSeconds": 161, "explicit": true, "genre": "Hip Hop" }
+      ]
+    },
+    {
+      "artist": "Pez",
+      "title": "A Mind of My Own",
+      "releaseDate": "2008-10-04",
+      "albumType": "Album",
+      "sourceUrl": "https://volt.fm/album/6384157/a-mind-of-my-own-by-pez",
+      "explicitSourceUrl": "https://www.theaudiodb.com/album/2211263-Pez-A-Mind-of-My-Own",
+      "alternateReleaseDateSourceUrl": "https://en.wikipedia.org/wiki/Pez_(musician)",
+      "tracks": [
+        { "trackNumber": 1, "title": "Ain't Got Time", "durationSeconds": 246, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Count Bounce"] },
+        { "trackNumber": 2, "title": "Lost", "durationSeconds": 241, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "The Festival Song", "durationSeconds": 263, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["360", "Hailey Cramer"] },
+        { "trackNumber": 4, "title": "This Sound", "durationSeconds": 198, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 5, "title": "These Days", "durationSeconds": 256, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Hailey Cramer"] },
+        { "trackNumber": 6, "title": "The Way It Should Be", "durationSeconds": 232, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Tys"] },
+        { "trackNumber": 7, "title": "Keep On", "durationSeconds": 217, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 8, "title": "The Light", "durationSeconds": 215, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Seth Sentry"] },
+        { "trackNumber": 9, "title": "I Wanna Go", "durationSeconds": 286, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 10, "title": "Take One", "durationSeconds": 90, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 11, "title": "Speak Out", "durationSeconds": 202, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 12, "title": "It All Starts to Show", "durationSeconds": 262, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 13, "title": "Shine", "durationSeconds": 348, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Raymes"] },
+        { "trackNumber": 14, "title": "Heavenly", "durationSeconds": 268, "explicit": false, "genre": "Hip Hop" }
+      ]
+    },
+    {
+      "artist": "Drapht",
+      "title": "The Life of Riley",
+      "releaseDate": "2011-04-01",
+      "albumType": "Album",
+      "sourceUrl": "https://open.spotify.com/album/07pBLagpmWIRztEoHYsdH8",
+      "explicitSourceUrl": "https://open.spotify.com/album/07pBLagpmWIRztEoHYsdH8",
+      "tracks": [
+        { "trackNumber": 1, "title": "Intro", "durationSeconds": 16, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 2, "title": "Sing It (The Life of Riley)", "durationSeconds": 246, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Down", "durationSeconds": 262, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 4, "title": "Rapunzel", "durationSeconds": 202, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 5, "title": "The Eulogy", "durationSeconds": 56, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Briggs"] },
+        { "trackNumber": 6, "title": "R.I.P. J.R.", "durationSeconds": 227, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 7, "title": "Won't Listen When", "durationSeconds": 175, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 8, "title": "People Don't Know", "durationSeconds": 238, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 9, "title": "Bali Party", "durationSeconds": 183, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["N'fa"] },
+        { "trackNumber": 10, "title": "Skit", "durationSeconds": 103, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 11, "title": "Air Guitar", "durationSeconds": 224, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 12, "title": "The Paul the Dan", "durationSeconds": 193, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Trials"] },
+        { "trackNumber": 13, "title": "Murder Murder", "durationSeconds": 236, "explicit": true, "genre": "Hip Hop" },
+        { "trackNumber": 14, "title": "Take the Party With Us", "durationSeconds": 292, "explicit": true, "genre": "Hip Hop", "featuredArtists": ["Funkoars"] },
+        { "trackNumber": 15, "title": "Good Morning", "durationSeconds": 247, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 16, "title": "We Own the Night", "durationSeconds": 253, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Mantra", "Urthboy"] },
+        { "trackNumber": 17, "title": "On and On", "durationSeconds": 240, "explicit": true, "genre": "Hip Hop" }
+      ]
+    },
+    {
+      "artist": "Debaser",
+      "title": "Peerless",
+      "releaseDate": "2010-05-04",
+      "albumType": "Album",
+      "sourceUrl": "https://albumblitz.com/debaser-of-sandpeople-peerless/",
+      "alternateReleaseDateSourceUrl": "https://en.wikipedia.org/wiki/Debaser_(rap_group)",
+      "tracks": [
+        { "trackNumber": 1, "title": "Curseless Gift", "durationSeconds": 188, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 2, "title": "Enough", "durationSeconds": 233, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Peerless", "durationSeconds": 183, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 4, "title": "Tree of Life", "durationSeconds": 164, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 5, "title": "Spider in the Sheets", "durationSeconds": 143, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 6, "title": "Pedestals", "durationSeconds": 201, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 7, "title": "Nola (Inst.)", "durationSeconds": 124, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 8, "title": "Quitters", "durationSeconds": 212, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 9, "title": "My Brain", "durationSeconds": 211, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 10, "title": "Don't Sleep", "durationSeconds": 222, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 11, "title": "Bang Like This (Inst.)", "durationSeconds": 155, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 12, "title": "Results", "durationSeconds": 213, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 13, "title": "Purest Disgust", "durationSeconds": 287, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 14, "title": "High Priceless", "durationSeconds": 230, "explicit": false, "genre": "Hip Hop" }
+      ]
+    },
+    {
+      "artist": "Goldini Bagwell",
+      "title": "Chainsmoke (Sandpeople Music Presents)",
+      "releaseDate": "2011-11-29",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/7106934",
+      "explicitSourceUrl": "https://api.deezer.com/album/7106934/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Intro (Unfiltered)",
+          "durationSeconds": 151,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Bagwell",
+          "durationSeconds": 232,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Lets Grow",
+          "durationSeconds": 252,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Tenure",
+          "durationSeconds": 212,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Wmn Vs. Wrk",
+          "durationSeconds": 303,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "More Than High",
+          "durationSeconds": 242,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Chainsmoke",
+          "durationSeconds": 239,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Speed of Life",
+          "durationSeconds": 237,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Words to Live By",
+          "durationSeconds": 273,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "For Nothing",
+          "durationSeconds": 264,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "No Sucka Revisited",
+          "durationSeconds": 269,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Prelude to AU (Aye You)",
+          "durationSeconds": 231,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Outro (Exhale)",
+          "durationSeconds": 175,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Bagwell (DaiN Remix)",
+          "durationSeconds": 248,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Goldini Bagwell",
+      "title": "Secondhand Smoke (The Extended Cut)",
+      "releaseDate": "2014-06-24",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/8009168",
+      "explicitSourceUrl": "https://api.deezer.com/album/8009168/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Live Without (Intro)",
+          "durationSeconds": 263,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Desire Is...",
+          "durationSeconds": 264,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Get Busy",
+          "durationSeconds": 269,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Words to Live By, Pt. 2",
+          "durationSeconds": 406,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Conclusions Drawn",
+          "durationSeconds": 369,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Read About It",
+          "durationSeconds": 315,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Felling Good (Saul Love)",
+          "durationSeconds": 296,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Say Anything",
+          "durationSeconds": 269,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "WWWH",
+          "durationSeconds": 255,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Pandemonium",
+          "durationSeconds": 283,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Search Party",
+          "durationSeconds": 283,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Everchanging Constant",
+          "durationSeconds": 341,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Wings of a Seagull (Instrumental)",
+          "durationSeconds": 189,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Blitz",
+          "durationSeconds": 798,
+          "explicit": true,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Illmaculate & Goldini Bagwell",
+      "title": "Ethereal",
+      "releaseDate": "2017-08-18",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/45514091",
+      "explicitSourceUrl": "https://api.deezer.com/album/45514091/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Throne Away",
+          "durationSeconds": 248,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "The Who?",
+          "durationSeconds": 225,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Trust Excercise",
+          "durationSeconds": 220,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Collard Greens",
+          "durationSeconds": 235,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Unbreakable",
+          "durationSeconds": 221,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Tides",
+          "durationSeconds": 211,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "On Me",
+          "durationSeconds": 230,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Unscripted",
+          "durationSeconds": 266,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Straight Jackets",
+          "durationSeconds": 207,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Last One",
+          "durationSeconds": 212,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Ethereal",
+          "durationSeconds": 159,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "iAME",
+      "title": "I Am My Enemy",
+      "releaseDate": "2009-01-01",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/6866207",
+      "explicitSourceUrl": "https://api.deezer.com/album/6866207/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "I Am My Enemy",
+          "durationSeconds": 123,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Shows Over Now",
+          "durationSeconds": 212,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Maybe I'm High (feat. Onlyone, Xperience & Sapient)",
+          "durationSeconds": 214,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Heaven Metal",
+          "durationSeconds": 113,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Unlikely Candidate",
+          "durationSeconds": 245,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "My Own Terms",
+          "durationSeconds": 235,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "What Else Could I Say? (feat. Illmaculate & Sapient)",
+          "durationSeconds": 201,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "No Cure",
+          "durationSeconds": 258,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Caution (feat. Sapient)",
+          "durationSeconds": 251,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Cancer Song (Pleasure To Burn Interlude)",
+          "durationSeconds": 331,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Promise",
+          "durationSeconds": 280,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Tight (feat. Clockwerk & Grayskul)",
+          "durationSeconds": 246,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Settle The Score",
+          "durationSeconds": 215,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Freedom Is...",
+          "durationSeconds": 276,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "iAME",
+      "title": "Noise Complaints",
+      "releaseDate": "2005-01-01",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/862851",
+      "explicitSourceUrl": "https://api.deezer.com/album/862851/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Fog On The Shore (Intro)",
+          "durationSeconds": 195,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "The Pauper Vs. The Pompous",
+          "durationSeconds": 215,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "A.D.D. (Gimme Gimmicks)",
+          "durationSeconds": 258,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Not Like You (Feat. Soul Plasma)",
+          "durationSeconds": 256,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Footprints",
+          "durationSeconds": 242,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Stuck",
+          "durationSeconds": 130,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Noise Complaints",
+          "durationSeconds": 217,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "An Anti-Anthem",
+          "durationSeconds": 248,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "The Abyss",
+          "durationSeconds": 243,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Stop And GO",
+          "durationSeconds": 202,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Poser Police",
+          "durationSeconds": 258,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Blast Off!",
+          "durationSeconds": 266,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "UniverSoul (Feat. Gold and Toni Hill)",
+          "durationSeconds": 288,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Without It",
+          "durationSeconds": 276,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Thin Line (Interlude)",
+          "durationSeconds": 173,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Bush's Belly Ache",
+          "durationSeconds": 252,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 17,
+          "title": "Never Stop",
+          "durationSeconds": 237,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 18,
+          "title": "As I walk Alone (Feat. Smoke and NyQwil)",
+          "durationSeconds": 252,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 19,
+          "title": "Day Is Done (Outro)",
+          "durationSeconds": 194,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "iAME",
+      "title": "Lame",
+      "releaseDate": "2011-05-31",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/11275211",
+      "explicitSourceUrl": "https://api.deezer.com/album/11275211/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "The Proposal (Intro)",
+          "durationSeconds": 132,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Today",
+          "durationSeconds": 262,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Leverage",
+          "durationSeconds": 260,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Felt So Real",
+          "durationSeconds": 241,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Lame",
+          "durationSeconds": 242,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Deaf Kid",
+          "durationSeconds": 188,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Thy Will",
+          "durationSeconds": 458,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "It's Not Always Pretty",
+          "durationSeconds": 253,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Ninja Defense",
+          "durationSeconds": 243,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Bright Side",
+          "durationSeconds": 268,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Carlin List",
+          "durationSeconds": 216,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Keep the Change",
+          "durationSeconds": 219,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Introducing McJameson",
+          "durationSeconds": 228,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Raw Data",
+          "durationSeconds": 244,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Domestikated",
+          "durationSeconds": 234,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "What Kind Are You?",
+          "durationSeconds": 344,
+          "explicit": true,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "iAME",
+      "title": "Lame$tream",
+      "releaseDate": "2012-04-03",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/138646352",
+      "explicitSourceUrl": "https://api.deezer.com/album/138646352/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Immersion",
+          "durationSeconds": 98,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Lowlabye",
+          "durationSeconds": 180,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Yeah Huh (feat. Smoke M2D6)",
+          "durationSeconds": 140,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "All You're Left With (feat. Onry Ozzborn & Candidt)",
+          "durationSeconds": 231,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Lame$tream",
+          "durationSeconds": 205,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Ambien (feat. Toni Hill)",
+          "durationSeconds": 255,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Amp BPM",
+          "durationSeconds": 169,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Square",
+          "durationSeconds": 97,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Malnourish (feat. Toni Hill)",
+          "durationSeconds": 199,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "April (No Thaw) [feat. Poeina Suddarth]",
+          "durationSeconds": 214,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "The Game & Its Credits (feat. Toni Hill)",
+          "durationSeconds": 347,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Swaggupy (feat. Young Coconut)",
+          "durationSeconds": 135,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "They No (feat. Toni Hill)",
+          "durationSeconds": 261,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "We All Win (feat. N8 the Gr8 & Sapient)",
+          "durationSeconds": 263,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Rack Monster (feat. Smoke M2D6)",
+          "durationSeconds": 187,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Bell Toll (feat. DJ Spark)",
+          "durationSeconds": 211,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 17,
+          "title": "Cleanup Crew (feat. Poeina Suddarth)",
+          "durationSeconds": 686,
+          "explicit": true,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Illmaculate & OnlyOne",
+      "title": "Police Brutality",
+      "releaseDate": "2009-01-01",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/861864",
+      "explicitSourceUrl": "https://api.deezer.com/album/861864/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Liquor Poured",
+          "durationSeconds": 221,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Do You",
+          "durationSeconds": 242,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Same Block",
+          "durationSeconds": 213,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Bounce",
+          "durationSeconds": 159,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "No Sucka",
+          "durationSeconds": 139,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Numb",
+          "durationSeconds": 220,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Do It Themselves",
+          "durationSeconds": 222,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Mind High",
+          "durationSeconds": 136,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Rent Money",
+          "durationSeconds": 258,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Softly",
+          "durationSeconds": 257,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Push Her Away",
+          "durationSeconds": 240,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Comfortable in My Skin",
+          "durationSeconds": 200,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "'86",
+          "durationSeconds": 159,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Keep It Movin'",
+          "durationSeconds": 188,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Carved Initials / Guatartro",
+          "durationSeconds": 300,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Angels & Demons",
+          "durationSeconds": 225,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 17,
+          "title": "New Mob",
+          "durationSeconds": 205,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 18,
+          "title": "Jack of All Trades",
+          "durationSeconds": 209,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 19,
+          "title": "Fuckin' Witcho Shit",
+          "durationSeconds": 199,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 20,
+          "title": "O.W.K.Y.",
+          "durationSeconds": 149,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 21,
+          "title": "Superman",
+          "durationSeconds": 173,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 22,
+          "title": "Convince Me",
+          "durationSeconds": 170,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 23,
+          "title": "War",
+          "durationSeconds": 175,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 24,
+          "title": "Justified Street Actions",
+          "durationSeconds": 177,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 25,
+          "title": "Times Have Changed",
+          "durationSeconds": 214,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 26,
+          "title": "Punch Face",
+          "durationSeconds": 214,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 27,
+          "title": "Style Wars",
+          "durationSeconds": 202,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 28,
+          "title": "Whatever",
+          "durationSeconds": 263,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 29,
+          "title": "Savage",
+          "durationSeconds": 261,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 30,
+          "title": "Celebrate Remix",
+          "durationSeconds": 280,
+          "explicit": true,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "OnlyOne",
+      "title": "Yourself, Anew...",
+      "releaseDate": "2004-01-01",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/8170294",
+      "explicitSourceUrl": "https://api.deezer.com/album/8170294/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Opening Up",
+          "durationSeconds": 102,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Recreate Yourself",
+          "durationSeconds": 193,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Sunshine",
+          "durationSeconds": 210,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Everything Is You",
+          "durationSeconds": 198,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "All Come Running",
+          "durationSeconds": 231,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Axe Song",
+          "durationSeconds": 258,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Did It I Did",
+          "durationSeconds": 189,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "The Devil Wears the Face of a Lovely Day",
+          "durationSeconds": 157,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Recreated Self",
+          "durationSeconds": 169,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Like That Dream",
+          "durationSeconds": 204,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "OnlyOne",
+      "title": "Adjective/ Noun",
+      "releaseDate": "2002-01-01",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/7777215",
+      "explicitSourceUrl": "https://api.deezer.com/album/7777215/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Open Your Eyes",
+          "durationSeconds": 62,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Might",
+          "durationSeconds": 250,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Lovely Heart",
+          "durationSeconds": 241,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Blue Skies",
+          "durationSeconds": 229,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Born",
+          "durationSeconds": 208,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "All Alone",
+          "durationSeconds": 183,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Two Weeks",
+          "durationSeconds": 193,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Gliding Down",
+          "durationSeconds": 206,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Lying",
+          "durationSeconds": 402,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "...",
+          "durationSeconds": 37,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "OnlyOne",
+      "title": "Fuck You",
+      "releaseDate": "2018-09-11",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/72625542",
+      "explicitSourceUrl": "https://api.deezer.com/album/72625542/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Intro",
+          "durationSeconds": 32,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "All We Do Is Smoke",
+          "durationSeconds": 110,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Fuck You",
+          "durationSeconds": 167,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "The P Word",
+          "durationSeconds": 175,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "100 Problems",
+          "durationSeconds": 230,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Space and Time",
+          "durationSeconds": 223,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Love Letter",
+          "durationSeconds": 182,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Tko",
+          "durationSeconds": 190,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "American Me",
+          "durationSeconds": 241,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Wings",
+          "durationSeconds": 190,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Solo Uno",
+          "durationSeconds": 201,
+          "explicit": true,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Sapient",
+      "title": "Fool For Gold",
+      "releaseDate": "2016-07-15",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/12879882",
+      "explicitSourceUrl": "https://api.deezer.com/album/12879882/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Dethy",
+          "durationSeconds": 160,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "The Push",
+          "durationSeconds": 210,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Only Silent When Hunting",
+          "durationSeconds": 212,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Fool For Gold",
+          "durationSeconds": 173,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "L.I.E.",
+          "durationSeconds": 221,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Cave",
+          "durationSeconds": 230,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Sapient",
+      "title": "Eaters, Vol. 2: Light Tiger",
+      "releaseDate": "2014-06-17",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/7858702",
+      "explicitSourceUrl": "https://api.deezer.com/album/7858702/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Lumens",
+          "durationSeconds": 198,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Dents",
+          "durationSeconds": 180,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Laser Tears",
+          "durationSeconds": 220,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Mansion",
+          "durationSeconds": 191,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "King Louie Williams",
+          "durationSeconds": 198,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Heights",
+          "durationSeconds": 234,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Intrepid",
+          "durationSeconds": 179,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Beots",
+          "durationSeconds": 270,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Gone Defcon",
+          "durationSeconds": 220,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Forels",
+          "durationSeconds": 225,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Hurricane Hands",
+          "durationSeconds": 228,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "The Fate",
+          "durationSeconds": 201,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Ice Lords of the Northern Tundra",
+          "durationSeconds": 321,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Bevaria",
+          "durationSeconds": 122,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Roman Candle (Remix)",
+          "durationSeconds": 184,
+          "explicit": true,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Sapient",
+      "title": "Slump",
+      "releaseDate": "2013-02-19",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/6236173",
+      "explicitSourceUrl": "https://api.deezer.com/album/6236173/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Slow Up",
+          "durationSeconds": 127,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Pieces Of Paper",
+          "durationSeconds": 190,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "When",
+          "durationSeconds": 201,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Shotgun In My Spaceship",
+          "durationSeconds": 227,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Roman Candle",
+          "durationSeconds": 184,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "The Dapper Mob",
+          "durationSeconds": 314,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Notroh",
+          "durationSeconds": 169,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Seeking New Skin",
+          "durationSeconds": 207,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Went Like This",
+          "durationSeconds": 228,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Opera Pigs",
+          "durationSeconds": 168,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Ello",
+          "durationSeconds": 166,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Monsters Eat Bricks",
+          "durationSeconds": 205,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "I Was Wrong",
+          "durationSeconds": 221,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Gladys",
+          "durationSeconds": 189,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Anaphylaxis",
+          "durationSeconds": 210,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Out From Under",
+          "durationSeconds": 219,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Sapient",
+      "title": "Eaters Volume One: Tusks!",
+      "releaseDate": "2011-08-16",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/1208452",
+      "explicitSourceUrl": "https://api.deezer.com/album/1208452/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Ivory Holders",
+          "durationSeconds": 57,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Trifle With Me",
+          "durationSeconds": 197,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Street Sweep",
+          "durationSeconds": 209,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Many One",
+          "durationSeconds": 206,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Flux",
+          "durationSeconds": 146,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Throat",
+          "durationSeconds": 206,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Aged Branches",
+          "durationSeconds": 229,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Airport Land",
+          "durationSeconds": 195,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Blissless Yield (Remix)",
+          "durationSeconds": 224,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Earbugs",
+          "durationSeconds": 164,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Steal Toes",
+          "durationSeconds": 207,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "The World Hates You",
+          "durationSeconds": 215,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Cool Walter",
+          "durationSeconds": 188,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "The Youth in Asia",
+          "durationSeconds": 196,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Place For One",
+          "durationSeconds": 182,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Inglorious Days",
+          "durationSeconds": 86,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Sapient",
+      "title": "Barrels For Feathers",
+      "releaseDate": "2010-08-31",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/6912560",
+      "explicitSourceUrl": "https://api.deezer.com/album/6912560/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Barrels For Feathers",
+          "durationSeconds": 221,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Clouds Clear",
+          "durationSeconds": 177,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Find Home",
+          "durationSeconds": 235,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Glorious Day",
+          "durationSeconds": 183,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "One Of The Many Ways (feat. LMNO)",
+          "durationSeconds": 269,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Blissless Yield",
+          "durationSeconds": 196,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Fuck Sapient (Skit)",
+          "durationSeconds": 36,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Hours",
+          "durationSeconds": 247,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Playdough",
+          "durationSeconds": 173,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Beauty In The Filth (feat. Eligh)",
+          "durationSeconds": 217,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Stronger",
+          "durationSeconds": 116,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Diamond Snares",
+          "durationSeconds": 223,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Shoot For The Ground (feat. Pigeon John)",
+          "durationSeconds": 189,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Universal Diorama",
+          "durationSeconds": 206,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Grown Up",
+          "durationSeconds": 254,
+          "explicit": true,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Sapient",
+      "title": "Famine Friends",
+      "releaseDate": "2010-10-01",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/7786293",
+      "explicitSourceUrl": "https://api.deezer.com/album/7786293/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Famine",
+          "durationSeconds": 152,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "She Doesn't Love Me",
+          "durationSeconds": 111,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Hands On",
+          "durationSeconds": 206,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Crumb Getta",
+          "durationSeconds": 199,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Proceed With Caution (Remix)",
+          "durationSeconds": 242,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Thoughts Behind Me",
+          "durationSeconds": 144,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Listening (Inst.)",
+          "durationSeconds": 133,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Proper Know How",
+          "durationSeconds": 191,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Hate Aside (Remix)",
+          "durationSeconds": 202,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Likeness",
+          "durationSeconds": 171,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Convince Me (Remix)",
+          "durationSeconds": 182,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Slamper (Instrumental)",
+          "durationSeconds": 110,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Cold How We Keep It",
+          "durationSeconds": 257,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Anything",
+          "durationSeconds": 194,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Go Shortly",
+          "durationSeconds": 231,
+          "explicit": true,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Hitman",
+          "durationSeconds": 212,
+          "explicit": true,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Sapient",
+      "title": "Make More",
+      "releaseDate": "2009-01-01",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/796202",
+      "explicitSourceUrl": "https://api.deezer.com/album/796202/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Here",
+          "durationSeconds": 154,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "My Grind Is Tech",
+          "durationSeconds": 227,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Ay Ay Ay",
+          "durationSeconds": 181,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "I Did It",
+          "durationSeconds": 259,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Make More",
+          "durationSeconds": 185,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Ready For Whatever",
+          "durationSeconds": 252,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Mushien",
+          "durationSeconds": 119,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Diamond In The Rough (feat. Illmaculate)",
+          "durationSeconds": 170,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "The Way It Is",
+          "durationSeconds": 257,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Dopesick",
+          "durationSeconds": 250,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Invested",
+          "durationSeconds": 312,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Debaser Is (feat. Ethic)",
+          "durationSeconds": 173,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Argonauts",
+          "durationSeconds": 83,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Till The End",
+          "durationSeconds": 209,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Uptown Squalor",
+          "durationSeconds": 204,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Mo-B & Simple",
+      "title": "Bad Neighbors",
+      "releaseDate": "2004-01-01",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/796344",
+      "explicitSourceUrl": "https://api.deezer.com/album/796344/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Block Huggie",
+          "durationSeconds": 214,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Chapel",
+          "durationSeconds": 217,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Bad Science (feat. Nobody)",
+          "durationSeconds": 227,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Mayhem (feat. Jon the Baptist)",
+          "durationSeconds": 147,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Misanthropes (feat. iame)",
+          "durationSeconds": 201,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Family Affair",
+          "durationSeconds": 385,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "dEvolution (feat. Focus)",
+          "durationSeconds": 216,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Grain Of Sand (feat. Ethic, Jon the Baptist, iame, Sapient)",
+          "durationSeconds": 237,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Interlude",
+          "durationSeconds": 130,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Ipod",
+          "durationSeconds": 218,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Midrange",
+          "durationSeconds": 170,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Perfect Crime",
+          "durationSeconds": 187,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Outta Space",
+          "durationSeconds": 218,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Pastime II",
+          "durationSeconds": 253,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Stay Tuned... (feat. Ethic)",
+          "durationSeconds": 206,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Sore Morals (feat. Sapient)",
+          "durationSeconds": 227,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 17,
+          "title": "Sputnik",
+          "durationSeconds": 188,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 18,
+          "title": "Galaxy To Galaxy*",
+          "durationSeconds": 207,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 19,
+          "title": "A Generic Day In Hell*",
+          "durationSeconds": 271,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 20,
+          "title": "System Error*",
+          "durationSeconds": 227,
+          "explicit": false,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "Al-One & OnlyOne",
+      "title": "The One & Only",
+      "releaseDate": null,
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/9639eac6-6a96-470c-ba7d-4884f080b166",
+      "tracks": [
+        { "trackNumber": 1, "title": "Na Na", "durationSeconds": 126, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 2, "title": "The Magic Number", "durationSeconds": 174, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 3, "title": "Club Killing You", "durationSeconds": 223, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 4, "title": "The Witness", "durationSeconds": 263, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 5, "title": "Show Improvement", "durationSeconds": 202, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 6, "title": "A Perfect World", "durationSeconds": 144, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Sapient", "Zelly Rock"] },
+        { "trackNumber": 7, "title": "Who Da One", "durationSeconds": 196, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 8, "title": "Rose Petals & Gold Medals", "durationSeconds": 194, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 9, "title": "Creative Control", "durationSeconds": 239, "explicit": false, "genre": "Hip Hop", "featuredArtists": ["Sandpeople"] },
+        { "trackNumber": 10, "title": "Early on Adventures", "durationSeconds": 203, "explicit": false, "genre": "Hip Hop" },
+        { "trackNumber": 11, "title": "Goodbye", "durationSeconds": 235, "explicit": false, "genre": "Hip Hop" }
+      ]
+    },
+    {
+      "artist": "360",
+      "title": "What You See Is What You Get",
+      "releaseDate": "2008-03-22",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/6b87e2a8-387e-4736-bfe6-45e2f5dc7245",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Me, Myself & I (Intro)",
+          "durationSeconds": 146,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "DJ A-Style"
+          ]
+        },
+        {
+          "trackNumber": 2,
+          "title": "What You See Is What You Get",
+          "durationSeconds": 219,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "How Good?",
+          "durationSeconds": 238,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Pez"
+          ]
+        },
+        {
+          "trackNumber": 4,
+          "title": "Beautiful Place",
+          "durationSeconds": 176,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Don't Worry About How It Looks",
+          "durationSeconds": 222,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Joelistics"
+          ]
+        },
+        {
+          "trackNumber": 6,
+          "title": "So Fake",
+          "durationSeconds": 250,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Tormented Kid",
+          "durationSeconds": 211,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "I'm a Monk (Skit)",
+          "durationSeconds": 91,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Bedroom Jammin'",
+          "durationSeconds": 166,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "What I Need",
+          "durationSeconds": 213,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Mamma Mia",
+          "durationSeconds": 258,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Subtle Way of Suicide",
+          "durationSeconds": 148,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Woah!",
+          "durationSeconds": 176,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Pez"
+          ]
+        },
+        {
+          "trackNumber": 14,
+          "title": "My Old School",
+          "durationSeconds": 205,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 15,
+          "title": "Get Down",
+          "durationSeconds": 170,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Joelistics"
+          ]
+        },
+        {
+          "trackNumber": 16,
+          "title": "Understand for Me",
+          "durationSeconds": 269,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Jeremedy"
+          ]
+        },
+        {
+          "trackNumber": 17,
+          "title": "Take Me for Granted",
+          "durationSeconds": 188,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "OSO"
+          ]
+        }
+      ]
+    },
+    {
+      "artist": "360",
+      "title": "Falling & Flying",
+      "releaseDate": "2011-09-30",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/d16bad4e-603b-4523-9654-d87210821420",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "The Take Off",
+          "durationSeconds": 252,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "I'm OK",
+          "durationSeconds": 222,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Just Got Started",
+          "durationSeconds": 193,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Pez"
+          ]
+        },
+        {
+          "trackNumber": 4,
+          "title": "Throw It Away",
+          "durationSeconds": 214,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Josh Pyke"
+          ]
+        },
+        {
+          "trackNumber": 5,
+          "title": "Child",
+          "durationSeconds": 293,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Boys Like You",
+          "durationSeconds": 221,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Gossling"
+          ]
+        },
+        {
+          "trackNumber": 7,
+          "title": "Killer",
+          "durationSeconds": 230,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Falling & Flying",
+          "durationSeconds": 269,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Run Alone",
+          "durationSeconds": 273,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Hammer Head",
+          "durationSeconds": 232,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Meant to Do",
+          "durationSeconds": 233,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Miracle in a Costume",
+          "durationSeconds": 263,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Gossling"
+          ]
+        },
+        {
+          "trackNumber": 13,
+          "title": "Hope You Don't Mind",
+          "durationSeconds": 344,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "N’fa"
+          ]
+        }
+      ]
+    },
+    {
+      "artist": "360",
+      "title": "Utopia",
+      "releaseDate": "2014-06-13",
+      "albumType": "Album",
+      "sourceUrl": "https://musicbrainz.org/release/b9d0e9a7-b9f7-496a-a6ed-61584d32ee09",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Still Rap",
+          "durationSeconds": 237,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "You and I",
+          "durationSeconds": 227,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Live It Up",
+          "durationSeconds": 228,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Pez"
+          ]
+        },
+        {
+          "trackNumber": 4,
+          "title": "Man on the Moon",
+          "durationSeconds": 282,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Purple Waterfall",
+          "durationSeconds": 244,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Daniel Johns"
+          ]
+        },
+        {
+          "trackNumber": 6,
+          "title": "Price of Fame",
+          "durationSeconds": 217,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Gossling"
+          ]
+        },
+        {
+          "trackNumber": 7,
+          "title": "Must Come Down",
+          "durationSeconds": 249,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Pez"
+          ]
+        },
+        {
+          "trackNumber": 8,
+          "title": "Speed Limit",
+          "durationSeconds": 177,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Early Warning",
+          "durationSeconds": 271,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Chris Cheney"
+          ]
+        },
+        {
+          "trackNumber": 10,
+          "title": "Sixavelli",
+          "durationSeconds": 230,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Lunar C"
+          ]
+        },
+        {
+          "trackNumber": 11,
+          "title": "Eddie Jones",
+          "durationSeconds": 250,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Miracle"
+          ]
+        },
+        {
+          "trackNumber": 12,
+          "title": "Spiral Down",
+          "durationSeconds": 254,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "By All Means",
+          "durationSeconds": 294,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "It's All About to End",
+          "durationSeconds": 334,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Daniel Johns"
+          ]
+        },
+        {
+          "trackNumber": 15,
+          "title": "Break the Rules",
+          "durationSeconds": 246,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 16,
+          "title": "Tell These Bitches",
+          "durationSeconds": 189,
+          "explicit": false,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 17,
+          "title": "Impossible",
+          "durationSeconds": 245,
+          "explicit": false,
+          "genre": "Hip Hop",
+          "featuredArtists": [
+            "Daniel Johns"
+          ]
+        }
+      ]
+    },
+    {
+      "artist": "360",
+      "title": "Vintage Modern",
+      "releaseDate": "2017-10-27",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/50244282",
+      "explicitSourceUrl": "https://api.deezer.com/album/50244282/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "White Lies",
+          "explicit": true,
+          "durationSeconds": 240,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Way Out",
+          "explicit": true,
+          "durationSeconds": 240,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "Yesterday",
+          "explicit": true,
+          "durationSeconds": 194,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Money",
+          "explicit": true,
+          "durationSeconds": 211,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Witness",
+          "explicit": true,
+          "durationSeconds": 254,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Drugs",
+          "explicit": true,
+          "durationSeconds": 238,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Body Language",
+          "explicit": true,
+          "durationSeconds": 206,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Coup De Gráce",
+          "explicit": true,
+          "durationSeconds": 236,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Admission",
+          "explicit": true,
+          "durationSeconds": 215,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Trouble",
+          "explicit": true,
+          "durationSeconds": 305,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Tiny Angel",
+          "explicit": true,
+          "durationSeconds": 323,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Letters",
+          "explicit": true,
+          "durationSeconds": 290,
+          "genre": "Hip Hop"
+        }
+      ]
+    },
+    {
+      "artist": "360",
+      "title": "Out Of The Blue",
+      "releaseDate": "2025-07-11",
+      "albumType": "Album",
+      "sourceUrl": "https://www.deezer.com/album/724328641",
+      "explicitSourceUrl": "https://api.deezer.com/album/724328641/tracks",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "title": "Euphoria",
+          "explicit": true,
+          "durationSeconds": 169,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 2,
+          "title": "Save My Soul",
+          "explicit": true,
+          "durationSeconds": 208,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 3,
+          "title": "No Place To Go",
+          "explicit": false,
+          "durationSeconds": 180,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 4,
+          "title": "Broken",
+          "explicit": true,
+          "durationSeconds": 207,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 5,
+          "title": "Back To You",
+          "explicit": false,
+          "durationSeconds": 201,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 6,
+          "title": "Chasing Ghosts",
+          "explicit": true,
+          "durationSeconds": 187,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 7,
+          "title": "Sodom & Gomorrah",
+          "explicit": true,
+          "durationSeconds": 194,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 8,
+          "title": "Coastline",
+          "explicit": true,
+          "durationSeconds": 201,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 9,
+          "title": "Out Of The Blue",
+          "explicit": false,
+          "durationSeconds": 160,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 10,
+          "title": "Games With Your Heart",
+          "explicit": false,
+          "durationSeconds": 162,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 11,
+          "title": "Holding On",
+          "explicit": false,
+          "durationSeconds": 210,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 12,
+          "title": "Someone Else's Dime",
+          "explicit": true,
+          "durationSeconds": 205,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 13,
+          "title": "Don't Say",
+          "explicit": false,
+          "durationSeconds": 213,
+          "genre": "Hip Hop"
+        },
+        {
+          "trackNumber": 14,
+          "title": "Incomplete",
+          "explicit": false,
+          "durationSeconds": 197,
+          "genre": "Hip Hop"
+        }
       ]
     }
   ]

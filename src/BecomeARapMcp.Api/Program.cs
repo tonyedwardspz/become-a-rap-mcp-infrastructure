@@ -29,7 +29,7 @@ app.MapGet("/hello", () => TypedResults.Ok(new { message = "Hello" }))
 
 app.MapMusicEndpoints();
 app.MapDefaultEndpoints();
-app.Run();
+await app.RunAsync();
 
 static async Task InitializeDatabaseAsync(WebApplication app)
 {
@@ -63,4 +63,4 @@ static async Task InitializeDatabaseAsync(WebApplication app)
         .SeedAsync(db, CancellationToken.None);
 }
 
-public partial class Program { }
+public partial class Program;

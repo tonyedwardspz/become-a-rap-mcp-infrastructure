@@ -13,36 +13,36 @@ public static class MusicEndpoints
     public static IEndpointRouteBuilder MapMusicEndpoints(this IEndpointRouteBuilder endpoints)
     {
         var artists = endpoints.MapGroup("/artists").WithTags("Artists");
-        artists.MapGet("/", GetArtists)
+        artists.MapGet("/", GetArtistsAsync)
             .WithSummary("List artists")
             .WithDescription("Searches by artist name and returns a paginated result.");
-        artists.MapGet("/{id:int}", GetArtist)
+        artists.MapGet("/{id:int}", GetArtistAsync)
             .WithSummary("Get an artist")
             .WithDescription("Returns an artist and their albums.")
             .Produces<ArtistDetailDto>()
             .Produces(StatusCodes.Status404NotFound);
 
         var albums = endpoints.MapGroup("/albums").WithTags("Albums");
-        albums.MapGet("/", GetAlbums)
+        albums.MapGet("/", GetAlbumsAsync)
             .WithSummary("List albums")
             .WithDescription("Returns a paginated album list with its primary artist.");
-        albums.MapGet("/{id:int}", GetAlbum)
+        albums.MapGet("/{id:int}", GetAlbumAsync)
             .WithSummary("Get an album")
             .WithDescription("Returns an album, its tracks, genres, and credited artists.")
             .Produces<AlbumDetailDto>()
             .Produces(StatusCodes.Status404NotFound);
 
         var songs = endpoints.MapGroup("/songs").WithTags("Songs");
-        songs.MapGet("/", GetSongs)
+        songs.MapGet("/", GetSongsAsync)
             .WithSummary("List and filter songs")
             .WithDescription("Searches song titles and artist names; optionally filters by genreId and/or artistId. Results include album, genre, primary, and featured artists.");
-        songs.MapGet("/{id:int}", GetSong)
+        songs.MapGet("/{id:int}", GetSongAsync)
             .WithSummary("Get a song")
             .WithDescription("Returns a song with its album, genre, and primary and featured artists.")
             .Produces<SongDto>()
             .Produces(StatusCodes.Status404NotFound);
 
-        endpoints.MapGet("/genres", GetGenres)
+        endpoints.MapGet("/genres", GetGenresAsync)
             .WithTags("Genres")
             .WithSummary("List genres")
             .WithDescription("Returns a paginated genre list with song counts.");
@@ -50,7 +50,7 @@ public static class MusicEndpoints
         return endpoints;
     }
 
-    private static async Task<PagedResponse<ArtistDto>> GetArtists(
+    private static async Task<PagedResponse<ArtistDto>> GetArtistsAsync(
         MusicDbContext db,
         string? search,
         int? page,
@@ -81,7 +81,7 @@ public static class MusicEndpoints
         return new PagedResponse<ArtistDto>(paging.Page, paging.PageSize, totalCount, items);
     }
 
-    private static async Task<IResult> GetArtist(
+    private static async Task<IResult> GetArtistAsync(
         int id,
         MusicDbContext db,
         CancellationToken cancellationToken)
@@ -119,7 +119,7 @@ public static class MusicEndpoints
         return Results.Ok(result);
     }
 
-    private static async Task<PagedResponse<AlbumSummaryDto>> GetAlbums(
+    private static async Task<PagedResponse<AlbumSummaryDto>> GetAlbumsAsync(
         MusicDbContext db,
         int? page,
         int? pageSize,
@@ -145,7 +145,7 @@ public static class MusicEndpoints
         return new PagedResponse<AlbumSummaryDto>(paging.Page, paging.PageSize, totalCount, items);
     }
 
-    private static async Task<IResult> GetAlbum(
+    private static async Task<IResult> GetAlbumAsync(
         int id,
         MusicDbContext db,
         CancellationToken cancellationToken)
@@ -181,7 +181,7 @@ public static class MusicEndpoints
             songs));
     }
 
-    private static async Task<PagedResponse<SongDto>> GetSongs(
+    private static async Task<PagedResponse<SongDto>> GetSongsAsync(
         MusicDbContext db,
         string? search,
         int? genreId,
@@ -228,7 +228,7 @@ public static class MusicEndpoints
         return new PagedResponse<SongDto>(paging.Page, paging.PageSize, totalCount, items);
     }
 
-    private static async Task<IResult> GetSong(
+    private static async Task<IResult> GetSongAsync(
         int id,
         MusicDbContext db,
         CancellationToken cancellationToken)
@@ -245,7 +245,7 @@ public static class MusicEndpoints
         return song is null ? Results.NotFound() : Results.Ok(ToSongDto(song));
     }
 
-    private static async Task<PagedResponse<GenreDto>> GetGenres(
+    private static async Task<PagedResponse<GenreDto>> GetGenresAsync(
         MusicDbContext db,
         int? page,
         int? pageSize,
@@ -305,7 +305,9 @@ public static class MusicEndpoints
     {
         var currentPage = Math.Max(1, page ?? 1);
         var currentPageSize = Math.Clamp(pageSize ?? DefaultPageSize, 1, MaximumPageSize);
-        var skip = (int)Math.Min((long)(currentPage - 1) * currentPageSize, int.MaxValue);
+        var skip = currentPage - 1 > int.MaxValue / currentPageSize
+            ? int.MaxValue
+            : (currentPage - 1) * currentPageSize;
         return (currentPage, currentPageSize, skip);
     }
 }
